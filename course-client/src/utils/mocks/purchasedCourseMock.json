@@ -1,0 +1,11 @@
+[
+  {
+    "_id": "66ab25176499701b8c44f1cd",
+    "title": "Frontend Development",
+    "description": "Frontend Developmnent course for 6 months new",
+    "price": 445,
+    "imageLink": "https://images.unsplash.com/photo-1719937050446-a121748d4ba0?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "published": true,
+    "__v": 0
+  }
+]

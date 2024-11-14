@@ -1,0 +1,47 @@
+[
+  {
+    "_id": "66ab25176499701b8c44f1cd",
+    "title": "Frontend Development",
+    "description": "Frontend Developmnent course for 6 months new",
+    "price": 445,
+    "imageLink": "https://images.unsplash.com/photo-1719937050446-a121748d4ba0?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "published": true,
+    "__v": 0
+  },
+  {
+    "_id": "66ab25676499701b8c44f1d4",
+    "title": "Backend Development",
+    "description": "Backend Dev course for 3months",
+    "price": 786,
+    "imageLink": "https://images.unsplash.com/photo-1665836723795-692a918209a5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8fHw%3D",
+    "published": true,
+    "__v": 0
+  },
+  {
+    "_id": "66ab27e26499701b8c44f1f9",
+    "title": "Digital Marketting",
+    "description": "Digital Marketting, learn seo, social media and etc",
+    "price": 220,
+    "imageLink": "https://images.unsplash.com/photo-1602525658150-4cf45e12c9ac?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE1fHx8ZW58MHx8fHx8",
+    "published": true,
+    "__v": 0
+  },
+  {
+    "_id": "66b1f3d7bb7ff6d7cb9538a3",
+    "title": "Pay for country again gaina",
+    "description": "Alitg olympics",
+    "price": 880,
+    "imageLink": "https://images.unsplash.com/photo-1580983561371-7f4b242d8ec0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "published": true,
+    "__v": 0
+  },
+  {
+    "_id": "66b1f4e5bb7ff6d7cb9538a8",
+    "title": "Fullstack development",
+    "description": "full stack dev ",
+    "price": 77,
+    "imageLink": "https://images.unsplash.com/photo-1719937050679-c3a2c9c67b0f?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "published": true,
+    "__v": 0
+  }
+]
